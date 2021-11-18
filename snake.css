@@ -1,0 +1,52 @@
+body {
+    background-color: #fde9e9;
+    text-align: -webkit-center;
+}
+
+h1 {
+    color: #ff4d94;
+    font-size: 25px;
+}
+
+canvas {
+    top: 6%;
+    position: relative;
+}
+
+span {
+    color: #ff1a75;
+    font-weight: 600;
+}
+
+.canvas-container {
+    background-color: #fde9e9;
+    width: 450px;
+    height: 450px;
+    border: solid #ff1a75 6px;
+}
+
+.rule-container {
+    width: 28.8rem;
+    margin-top: 15px;
+}
+
+.buttons-ins {
+    width: 60px;
+    float: left;
+}
+
+.button-text {
+    float: left;
+    text-transform: uppercase;
+    margin-top: 6%;
+    color: #565555;
+}
+
+.rule {
+    color: #565555;
+    width: 28.8rem;
+    margin-top: 6%;
+    margin-left: 1%;
+    text-transform: uppercase;
+    text-align: initial;
+}
